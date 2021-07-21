@@ -1,2 +1,0 @@
-# Pikachu
-Dibujando Con CSS
